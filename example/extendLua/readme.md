@@ -1,2 +1,2 @@
-gcc test.c -fPIC -shared -o test.so 
+gcc test.c -fPIC -shared -o test.so  <br/>
 lua test.lua
